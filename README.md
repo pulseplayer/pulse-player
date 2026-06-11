@@ -23,6 +23,6 @@ Pulse Player is a native Android player for M3U8 HLS streams and MP4 files — l
 
 ## Downloads
 
-You can download mpv-android from the [Releases section](https://github.com/pulseplayer/pulse-player/releases) or
+You can download Pulse Player from the [Releases section](https://github.com/pulseplayer/pulse-player/releases) or
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=m.pulseplayer.app)
