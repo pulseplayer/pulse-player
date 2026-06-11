@@ -1,7 +1,12 @@
 # pulse-player
 <p align="center">
-  <img src="images/logo.png">
+  <img src="images/logo.png" width="220">
 </p>
+![GitHub Downloads](https://img.shields.io/github/downloads/yourname/pulse-player/total)
+![GitHub Stars](https://img.shields.io/github/stars/yourname/pulse-player)
+![GitHub Release](https://img.shields.io/github/v/release/yourname/pulse-player)
+![Android](https://img.shields.io/badge/Platform-Android-green)
+
 Pulse Player is a native Android player for M3U8 HLS streams and MP4 files — local or over the network — with a built-in downloader, custom headers, subtitle support, and a coin reward system that keeps it free.
 
 <p align="center">
