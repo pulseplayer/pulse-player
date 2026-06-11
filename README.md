@@ -4,9 +4,6 @@
     <a href="https://github.com/pulseplayer/pulse-player/releases/latest">
         <img src="https://img.shields.io/github/v/release/pulseplayer/pulse-player?include_prereleases&logo=github&style=for-the-badge&label=Latest%20Release" alt="Latest Release">
     </a>
-    <a href="https://github.com/theovilardo/PixelPlayer/releases">
-        <img src="https://img.shields.io/github/downloads/pulseplayer/pulse-player/total?logo=github&style=for-the-badge" alt="Total Downloads">
-    </a>
     <img src="https://img.shields.io/badge/Android-11%2B-green?style=for-the-badge&logo=android" alt="Android 11+">
     <img src="https://img.shields.io/badge/Kotlin-100%25-purple?style=for-the-badge&logo=kotlin" alt="Kotlin">
 </p>
