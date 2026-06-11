@@ -1,16 +1,25 @@
 # pulse-player
-[![Build Status](https://github.com/pulseplayer/pulse-player/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/pulseplayer/pulse-player/actions/workflows/build.yml)
+
+<p align="center">
+    <a href="https://github.com/pulseplayer/pulse-player/releases/latest">
+        <img src="https://img.shields.io/github/v/release/pulseplayer/pulse-player?include_prereleases&logo=github&style=for-the-badge&label=Latest%20Release" alt="Latest Release">
+    </a>
+    <a href="https://github.com/theovilardo/PixelPlayer/releases">
+        <img src="https://img.shields.io/github/downloads/pulseplayer/pulse-player/total?logo=github&style=for-the-badge" alt="Total Downloads">
+    </a>
+    <img src="https://img.shields.io/badge/Android-11%2B-green?style=for-the-badge&logo=android" alt="Android 11+">
+    <img src="https://img.shields.io/badge/Kotlin-100%25-purple?style=for-the-badge&logo=kotlin" alt="Kotlin">
+</p>
 
 Pulse Player is a native Android player for M3U8 HLS streams and MP4 files — local or over the network — with a built-in downloader, custom headers, subtitle support, and a coin reward system that keeps it free.
 
 <p align="center">
-  <img src="images/screenshot-player.png" width="220">
-  <img src="images/screenshot-url-input.png" width="220">
-  <img src="images/screenshot-download-quality.png" width="220">
-  <img src="images/screenshot-downloads-library.png" width="220">
-  <img src="images/screenshot-themes-settings.png" width="220">
+  <img src="images/screenshot-player.png" width="220" style="border-radius:26px;">
+  <img src="images/screenshot-url-input.png" width="220" style="border-radius:26px;">
+  <img src="images/screenshot-download-quality.png" width="220" style="border-radius:26px;">
+  <img src="images/screenshot-downloads-library.png" width="220" style="border-radius:26px;">
+  <img src="images/screenshot-themes-settings.png" width="220" style="border-radius:26px;">
 </p>
-
 
 ## Downloads
 
