@@ -50,6 +50,7 @@ You can download Pulse Player from the [Releases section](https://github.com/pul
 - Native Android app with simple and easy-to-use interface
 - Software decoders for h264 and hevc
 - Audio/Subtitle track selection
+- HLS (.m3u8) playback
 - Vertical swipe to change brightness (left) / volume (right)
 - Horizontal swipe to seek through video
 - [Material 3 (You)](https://m3.material.io/) support
@@ -57,3 +58,9 @@ You can download Pulse Player from the [Releases section](https://github.com/pul
 - Play videos from storage access framework (Android Document picker)
 - External Subtitle support
 - Picture-in-picture mode
+
+---
+
+If Pulse Player has been useful to you, consider starring the repository and sharing it with others.
+
+Made with ❤️ for the community.
