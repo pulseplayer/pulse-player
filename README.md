@@ -31,8 +31,8 @@ You can download Pulse Player from the [Releases section](https://github.com/pul
 
 ### Player Ui
 <p align="center">
-  <img src="images/screenshot-player-ui.png" width="220" style="border-radius:26px;">
-  <img src="images/screenshot-player-ui-2.png" width="220" style="border-radius:26px;">
+  <img src="images/screenshot-player-ui.png" style="border-radius:26px;">
+  <img src="images/screenshot-player-ui-2.png" style="border-radius:26px;">
 </p>
 
 ## Supported formats
